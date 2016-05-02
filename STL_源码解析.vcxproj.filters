@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stl_member_temple.cpp">
+    <ClCompile Include="stl_non_type_tmpl_para_bug.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
