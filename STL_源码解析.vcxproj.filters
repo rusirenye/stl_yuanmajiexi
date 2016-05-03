@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stl_non_type_tmpl_para_bug.cpp">
+    <ClInclude Include="jjalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jjalloc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
